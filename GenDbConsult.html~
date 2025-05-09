@@ -9,7 +9,7 @@
         <script src="js/modernizr-2.6.2.min.js"></script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI and Deep Learning in Life Sciences - Sivasakthi Science Foundation</title>
+    <title>Incubator Research Fund Program - Sivasakthi Science Foundation</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="logo.ico">
     
@@ -206,44 +206,26 @@
 
     <!-- Content -->
     <div id="ai-page" class="content1" class="p">
-        <h1>AI and Deep Learning in Life Sciences Research: Unlocking New Frontiers in Genome Biology</h1>
-        <p>At the Sivasakthi Science Foundation, we believe that the future of life sciences research lies at the intersection of artificial intelligence (AI), deep learning, and biology. As we advance into an era where data-driven insights are crucial, AI and deep learning are revolutionizing the way we understand complex biological systems. Our investment in AI and Deep Learning Innovation aims to harness these cutting-edge technologies to accelerate discoveries in genome biology.</p>
+        <h1>Accelerating Innovative Ideas into Impactful Research</h1>
+        <p>The Sivasakthi Science Foundation (SSF) is committed to nurturing early-stage, high-potential research through our Incubator Research Fund Program. Designed to bridge the critical gap between concept and proof-of-concept, this initiative provides seed funding, strategic guidance, and collaborative opportunities to accelerate promising research ideas in the life sciences, bioinformatics, and AI-driven genomics.</p>
         
-        <h2>Transforming Genome Annotation with Deep Learning</h2>
-        <p>Deep learning revolutionizes genome annotation by enabling automated, high-precision identification of genes, regulatory elements, and functional regions within complex genomes. Utilizing advanced neural networks, deep learning models can accurately annotate large-scale genomic data, significantly reducing the time and effort required for manual annotation. This innovative approach enhances our understanding of genetic functions and interactions, paving the way for breakthroughs in genomics, personalized medicine, and evolutionary studies.</p>
+        <h2>What We Offer</h2>
+        <p><ul><li>Seed Funding: Microgrants and starter funds to test innovative hypotheses or pilot novel research tools.</li><li>Mentorship & Advisory: Access to SSF’s network of experts for strategic guidance on project development, technical execution, and long-term planning.</li><li>Collaborative Platforms: Opportunities to partner with SSF’s research labs, including Bharat Genome Database and GenAi Research Labs.</li><li>Capacity Building: Support in skills development, research design, and proposal preparation to enable future large-scale funding.</li></ul></p>
         
-        <h3 style="color: #e6cb56;">Gene Prediction and Annotation</h3>
-        <p>Deep learning algorithms can accurately predict the locations and functions of genes within a genome, automating the annotation process and identifying previously unknown genes or regulatory elements.</p>
-        <img src="images/fbrio-03-1326958-g001.jpg" class="center" >
         <br>
-        <h3 style="color:#e6cb56;">Variant Detection and Interpretation</h3>
-        <p>Deep learning models can identify genetic variants, such as single nucleotide polymorphisms (SNPs) and structural variations, and predict their potential impact on gene function and association with diseases.</p>
-        
-        <h3 style="color: #e6cb56;">Gene Expression Analysis</h3>
-        <p>By analyzing gene expression data, deep learning can uncover complex patterns and relationships between genes, helping to understand regulatory networks and identify key drivers of biological processes.</p>
-        <img src="images/40246_2022_396_Fig2_HTML.png" class="center" >
+        <h2>Who Can Apply</h2>
+	<p>The program is open to: <br><ul><li>Early-career researchers and innovators.</li><li>University faculty and research groups exploring new directions.</li><li>Nonprofit and startup teams developing pioneering solutions in genomics, AI, and bioinformatics.</li><li>Student-led initiatives with high potential for societal or scientific impact.</li></ul></p>
 
-        <h3 style="color:#e6cb56;">Evolutionary Genomics</h3>
-        <p>Deep learning can be used to model evolutionary processes, helping to predict how genomes might change over time, understand species divergence, and identify conserved genetic elements across different organisms.</p>
-        
-        <h3 style="color:#e6cb56;">Personalized Medicine</h3>
-        <p>Deep learning enables the integration of genomic data with other biological information, such as epigenomics and proteomics, to predict individual responses to treatments, leading to more effective and personalized medical interventions.</p>
-        <br>
-        <br>
-        <h2>AI-Driven Insights into the Plasticity of Living Systems</h2>
-        <h3 style="color: #e6cb56;">Neural Plasticity and Cognitive Adaptation</h3>
-        <p>Exploring how AI can model and predict changes in neural pathways, offering new insights into how brains adapt to learning, memory, and environmental stimuli.</p>
-        <h3 style="color: #e6cb56;">Cellular and Genetic Plasticity  </h3>
-        <p>Utilizing AI to decode the mechanisms behind cellular adaptability, including gene expression changes, epigenetic modifications, and their implications for development and disease.</p>
-        <h3 style="color: #e6cb56;">Adaptive Responses in Ecosystems  </h3>
-        <p>Employing AI to study the plasticity of ecosystems in response to environmental changes, focusing on how species interactions and ecological dynamics evolve over time.</p>
+	 <br>
+        <h2>Areas of Focus</h2>
+	<p>We prioritize research aligned with SSF’s mission: <br><ul><li>Genomics & Bioinformatics Innovation</li><li>AI in Life Sciences</li><li>Biodiversity and Conservation Genomics</li><li>Sustainable Biotechnology Solutions</li><li>Healthcare and Precision Medicine Tools</li></ul></p>
+		 <br>
+        <h2>Why It Matters</h2>
+	<p>Transformative research often struggles at the earliest stages due to lack of resources and mentorship. SSF’s Incubator Research Fund is designed to de-risk early ideas, fast-track innovation, and lay the foundation for scalable impact—ensuring that promising concepts don't get left behind.</p>
 
-        <h3 style="color: #e6cb56;">Plasticity in Developmental Biology  </h3>
-        <p>Investigating how AI can help understand the flexible nature of developmental processes and shed light on how organisms modify their growth patterns in response to internal and external factors.</p>
-        <h3 style="color: #e6cb56;">Plasticity and Regeneration in Tissue Engineering </h3>
-        <p>Using AI to enhance our understanding of tissue plasticity, particularly in regenerative medicine, where the ability to predict and control tissue adaptation is crucial for therapeutic advancements.</p>
-        
-
+		 <br>
+        <h2>Apply or Collaborate</h2>
+	<p>We welcome inquiries from individuals and institutions interested in applying for funding or collaborating on incubator-supported projects. To learn more about eligibility criteria, deadlines, and application guidelines, contact us at info@sivasakthifoundation.org.</p>
 
       </div>
 
